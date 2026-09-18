@@ -3,10 +3,8 @@
 /components/admin
 /components/common
 /components/forms
-/components/landing-page
 /components/products
 /components/ui
-
 
 # dependencies
 /node_modules
