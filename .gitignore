@@ -9,7 +9,6 @@
 
 /db
 /drizzle
-/lib
 
 # dependencies
 /node_modules
