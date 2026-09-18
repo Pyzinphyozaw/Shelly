@@ -1,8 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 /components/admin
-/components/common
-/components/products
 /components/ui
 
 # dependencies
