@@ -7,8 +7,6 @@
 /components/products
 /components/ui
 
-/db
-/drizzle
 
 # dependencies
 /node_modules
