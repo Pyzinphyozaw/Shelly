@@ -10,7 +10,6 @@
 /db
 /drizzle
 /lib
-/types
 
 # dependencies
 /node_modules
