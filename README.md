@@ -1,6 +1,6 @@
-# iBuiltThis - A community platform where creators share what they've built and discover what's launching!
+# Shelly - A community platform where creators share what they've built and discover what's launching!
 
-Get complete access to iBuiltThis, a community-driven platform that connects creators, builders, and innovators in one vibrant space where authentic launches meet genuine feedback.
+Get complete access to Shelly, a community-driven platform that connects creators, builders, and innovators in one vibrant space where authentic launches meet genuine feedback.
 
 This application delivers a seamless product discovery experience featuring:
 
@@ -46,7 +46,7 @@ This application delivers a seamless product discovery experience featuring:
 
 - Protected routes and API endpoints
 
-Perfect for creators, builders, entrepreneurs, and anyone who wants to showcase their work or discover innovative projects. iBuiltThis demonstrates how modern web technologies can create engaging community platforms while maintaining a focus on beautiful presentation and user experience.
+Perfect for creators, builders, entrepreneurs, and anyone who wants to showcase their work or discover innovative projects. Shelly demonstrates how modern web technologies can create engaging community platforms while maintaining a focus on beautiful presentation and user experience.
 
 ## ⚡ Features
 
