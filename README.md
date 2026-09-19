@@ -52,57 +52,57 @@ Perfect for creators, builders, entrepreneurs, and anyone who wants to showcase 
 
 ### 🛠️ Core Technologies:
 
-- 🚀 Next.js 16 App Router for server-side rendering, routing, and API endpoints with Server Components
+-  Next.js 16 App Router for server-side rendering, routing, and API endpoints with Server Components
 
-- ⚛️ React 19 for building interactive user interfaces with reusable components
+-  React 19 for building interactive user interfaces with reusable components
 
-- 🔑 Clerk for secure authentication with Passkeys, Github, and Google Sign-in
+-  Clerk for secure authentication with Passkeys, Github, and Google Sign-in
 
-- 🎨 ShadcN UI for accessible, customizable React components
+-  ShadcN UI for accessible, customizable React components
 
-- 💾 NeonDB (PostgreSQL) for serverless database storage of products and user data
+-  NeonDB (PostgreSQL) for serverless database storage of products and user data
 
-- 🗄️ Drizzle ORM for type-safe database queries and migrations
+-  Drizzle ORM for type-safe database queries and migrations
 
-- 📜 TypeScript for static typing and enhanced development experience
+-  TypeScript for static typing and enhanced development experience
 
-- 💅 TailwindCSS 4 for utility-first, responsive styling
+-  TailwindCSS 4 for utility-first, responsive styling
 
-- ✅ Zod for schema validation and form handling
+-  Zod for schema validation and form handling
 
-- 🎯 React Hook Form for efficient form management
+-  React Hook Form for efficient form management
 
-### 💫 Application Features:
+###  Application Features:
 
-- 📝 Product submission with validation and moderation
+-  Product submission with validation and moderation
 
-- 🎨 Beautiful, interactive product cards and layouts
+-  Beautiful, interactive product cards and layouts
 
-- 🔒 Secure file handling and processing
+-  Secure file handling and processing
 
-- 🔐 Protected routes and API endpoints
+-  Protected routes and API endpoints
 
-- 👨‍💼 Admin panel for product management and moderation
+-  Admin panel for product management and moderation
 
-- 📊 Featured products and recently launched sections
+-  Featured products and recently launched sections
 
-- 📱 Responsive design for mobile and desktop
+-  Responsive design for mobile and desktop
 
-- 🔄 Real-time updates and path revalidation
+-  Real-time updates and path revalidation
 
-- 🚀 Production-ready deployment
+-  Production-ready deployment
 
-- 🔔 Toast notifications for submission status, updates, and error handling
+-  Toast notifications for submission status, updates, and error handling
 
-- 📈 Performance optimizations
+-  Performance optimizations
 
-- 🔍 SEO-friendly product pages
+-  SEO-friendly product pages
 
-- 🗳️ Voting system for community engagement
+-  Voting system for community engagement
 
-- 🏷️ Tag-based product categorization
+-  Tag-based product categorization
 
-## 🚀 Getting Started
+##  Getting Started
 
 To get started with this project:
 
@@ -130,7 +130,7 @@ To get started with this project:
 
 6. Run the development server with `npm run dev`
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Clerk](https://go.clerk.com/DoJyZw3) for authentication
 
@@ -141,7 +141,3 @@ To get started with this project:
 - [ShadcN UI](https://ui.shadcn.com/) for components
 
 - [Next.js](https://nextjs.org) for the amazing framework
-
-## 📄 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
